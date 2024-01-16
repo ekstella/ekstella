@@ -1,1 +1,8 @@
-![Animated Cat](https://64.media.tumblr.com/f9a8071e137c47c8314037a28fbd8c34/tumblr_o1kravF6sD1qg6rkio1_1280.gifv)
+## 🌟 Hello! 🌟
+
+I am a 21-years old first year Business Information Technology student with a focus on software development. 
+
+I use my Github as a way to document my journey with programming! Here you'll find my school assignments and hopefully soon own projects as well! ✨
+
+
+![Animated Cat](https://i.pinimg.com/originals/2d/55/0e/2d550e48e5fabf33543b51e4d8ccb335.gif)
